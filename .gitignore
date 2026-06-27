@@ -1,0 +1,17 @@
+# original phone photos (source material — contain table/lap, kept private)
+20260626-*.jpg
+
+# QA / debug artifacts
+work/shots/
+work/debug/
+work/crops/
+work/cards/
+
+# editor / OS
+.DS_Store
+Thumbs.db
+.claude/
+
+# python
+__pycache__/
+*.pyc

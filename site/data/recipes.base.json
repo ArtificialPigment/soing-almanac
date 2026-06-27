@@ -1,0 +1,316 @@
+[
+  {
+    "id": "caipirinha", "en": "Caipirinha", "cn": "凯匹林纳",
+    "base": "卡莎萨", "baseEn": "Cachaça",
+    "ingredients": [
+      {"name": "卡莎萨", "amount": "60 ml"},
+      {"name": "青柠（切块）", "amount": "1 颗"},
+      {"name": "白砂糖", "amount": "4 勺"}
+    ],
+    "steps": [
+      "把青柠块和白砂糖放入古典杯中，一起捣压出汁。",
+      "加入碎冰与卡莎萨，搅拌均匀即可。"
+    ]
+  },
+  {
+    "id": "basil-smash", "en": "Basil Smash", "cn": "罗勒碎金酒",
+    "base": "金酒", "baseEn": "Gin",
+    "ingredients": [
+      {"name": "干式金酒", "amount": "50 ml"},
+      {"name": "糖浆", "amount": "25 ml"},
+      {"name": "柠檬汁", "amount": "25 ml"},
+      {"name": "新鲜罗勒叶", "amount": "8–12 片"}
+    ],
+    "steps": [
+      "将新鲜罗勒叶放入调酒壶，用捣棒将其捣碎。",
+      "放入其余材料，加冰摇匀。",
+      "过滤倒入装有冰块的古典杯中。"
+    ]
+  },
+  {
+    "id": "aviation", "en": "Aviation", "cn": "飞行",
+    "base": "金酒", "baseEn": "Gin",
+    "ingredients": [
+      {"name": "Beefeater 24 金酒", "amount": "45 ml"},
+      {"name": "Maraschino 黑樱桃酒", "amount": "10 ml"},
+      {"name": "紫罗兰香甜酒", "amount": "5 ml"},
+      {"name": "柠檬汁", "amount": "20 ml"},
+      {"name": "糖水", "amount": "5 ml"}
+    ],
+    "steps": [
+      "将材料全部放入雪克杯中，加入冰块，摇荡均匀。",
+      "滤掉冰块，倒入冰镇过的马丁尼杯中。",
+      "喷附柠檬皮油，完成。"
+    ]
+  },
+  {
+    "id": "lychee-gimlet", "en": "Lychee Gimlet", "cn": "吉姆雷特",
+    "base": "金酒", "baseEn": "Gin",
+    "ingredients": [
+      {"name": "金酒", "amount": "45 ml"},
+      {"name": "青柠汁", "amount": "15 ml"},
+      {"name": "单糖浆", "amount": "15 ml"},
+      {"name": "冰块", "amount": "适量"}
+    ],
+    "steps": [
+      "倒入 45 ml 金酒。",
+      "倒入 15 ml 青柠汁、15 ml 糖浆。",
+      "搅拌均匀。",
+      "倒入放了冰块的杯子。",
+      "用青柠皮擦一下杯口，完成！"
+    ]
+  },
+  {
+    "id": "spicy-lemon-drop", "en": "Spicy Lemon Drop", "cn": "柠檬糖",
+    "base": "伏特加", "baseEn": "Vodka",
+    "ingredients": [
+      {"name": "伏特加", "amount": "2 oz"},
+      {"name": "君度", "amount": "0.5 oz"},
+      {"name": "柠檬汁", "amount": "0.5 oz"},
+      {"name": "砂糖（沾杯边）", "amount": "适量"}
+    ],
+    "steps": [
+      "用柠檬汁浸湿杯壁，顺时针将砂糖沾满杯壁。",
+      "将冰块倒入摇酒壶，依次按比例倒入伏特加、君度、柠檬汁。",
+      "双手紧握调酒壶上下摇晃 10 秒，直至酒体均匀，倒入杯中即可。"
+    ]
+  },
+  {
+    "id": "negroni", "en": "Negroni", "cn": "尼格罗尼",
+    "base": "金酒", "baseEn": "Gin",
+    "ingredients": [
+      {"name": "金酒", "amount": "30 ml"},
+      {"name": "金巴利苦味利口酒", "amount": "30 ml"},
+      {"name": "马天尼红甜味美思", "amount": "30 ml"},
+      {"name": "冰块", "amount": "适量"},
+      {"name": "橙皮、橙片", "amount": "各 1"}
+    ],
+    "steps": [
+      "Rock 杯中加入冰块。",
+      "倒入甜味美思、金巴利、金酒，用吧勺搅拌充分混合。",
+      "放入橙片，挤橙皮油并入杯内。"
+    ]
+  },
+  {
+    "id": "gin-fizz", "en": "Gin Fizz", "cn": "琴费士",
+    "base": "金酒", "baseEn": "Gin",
+    "ingredients": [
+      {"name": "金酒", "amount": "45 ml"},
+      {"name": "柠檬汁", "amount": "15 ml"},
+      {"name": "糖浆", "amount": "10 ml"},
+      {"name": "苏打水", "amount": "加满"}
+    ],
+    "steps": [
+      "在摇酒壶内倒入金酒、柠檬汁、糖浆，加入冰块。",
+      "摇匀后倒入加满冰块的高球杯（high ball）内。",
+      "倒入苏打水至八分满，用吧勺插入杯底轻轻搅拌；可用柠檬片装饰。"
+    ]
+  },
+  {
+    "id": "sidecar", "en": "Sidecar", "cn": "边车",
+    "base": "白兰地", "baseEn": "Brandy",
+    "ingredients": [
+      {"name": "白兰地", "amount": "40 ml"},
+      {"name": "橙味利口酒", "amount": "20 ml"},
+      {"name": "柠檬汁", "amount": "15 ml"},
+      {"name": "冰块", "amount": "少许"}
+    ],
+    "steps": [
+      "用青柠擦拭杯边，沾上白砂糖。",
+      "摇酒壶内加入冰块至八分满，倒入材料。",
+      "大力摇晃冰镇后，倒入马天尼酒杯中，完成。"
+    ]
+  },
+  {
+    "id": "americano", "en": "Americano", "cn": "美国人",
+    "base": "金巴利", "baseEn": "Campari",
+    "ingredients": [
+      {"name": "甜味美思", "amount": "45 ml"},
+      {"name": "金巴利", "amount": "45 ml"},
+      {"name": "苏打水", "amount": "加满"},
+      {"name": "橙片", "amount": "1 片"}
+    ],
+    "steps": [
+      "将冰块放入高球杯中（可放小块冰）。",
+      "倒入甜味美思。",
+      "倒入金巴利。",
+      "用吧勺搅拌使其混合。",
+      "将苏打水加至满杯。",
+      "用吧勺轻轻提拉（不要搅拌过度，防止气泡流失）。",
+      "放入一片橙子装饰。"
+    ]
+  },
+  {
+    "id": "strawberry-daiquiri", "en": "Strawberry Daiquiri", "cn": "草莓冻唇蜜",
+    "base": "白朗姆酒", "baseEn": "White Rum",
+    "ingredients": [
+      {"name": "冰块", "amount": "4–6 块"},
+      {"name": "白朗姆酒", "amount": "1.5 oz"},
+      {"name": "君度", "amount": "0.5 oz"},
+      {"name": "草莓力娇酒", "amount": "2 oz"},
+      {"name": "草莓", "amount": "1 颗"}
+    ],
+    "steps": [
+      "在雪克壶中放入 4–6 块冰。",
+      "倒入白朗姆酒、君度、草莓力娇酒，摇晃均匀。",
+      "将调好的鸡尾酒滤入酒杯中，加上草莓装饰。"
+    ]
+  },
+  {
+    "id": "margarita", "en": "Margarita", "cn": "玛格丽特",
+    "base": "龙舌兰", "baseEn": "Tequila",
+    "ingredients": [
+      {"name": "龙舌兰酒", "amount": "45 ml"},
+      {"name": "君度酒", "amount": "20 ml"},
+      {"name": "新鲜青柠汁", "amount": "20 ml"}
+    ],
+    "steps": [
+      "制作盐口杯：将青柠切开，一手拿青柠、一手拿杯柄，把杯口反转在青柠切面上滚动半圈后沾盐。",
+      "将冰块、龙舌兰、君度酒放入调酒壶，摇匀。",
+      "将酒液缓缓倒入已做好盐圈的玛格丽特杯中（需过滤掉冰块）。"
+    ]
+  },
+  {
+    "id": "blue-hawaii", "en": "Blue Hawaii", "cn": "蓝色夏威夷",
+    "base": "朗姆酒", "baseEn": "Rum",
+    "ingredients": [
+      {"name": "朗姆酒", "amount": "30 ml"},
+      {"name": "柠檬汁", "amount": "15 ml"},
+      {"name": "蓝橙利口酒（Blue Curaçao）", "amount": "15 ml"},
+      {"name": "菠萝汁", "amount": "90 ml"},
+      {"name": "柠檬片、樱桃", "amount": "各 1"}
+    ],
+    "steps": [
+      "朗姆、菠萝汁、蓝橙利口酒和柠檬汁加入摇酒壶，加冰块充分摇匀。",
+      "滤入杯中，DIY 你的装饰。"
+    ]
+  },
+  {
+    "id": "pina-colada", "en": "Piña Colada", "cn": "椰林飘香",
+    "base": "白朗姆酒", "baseEn": "White Rum",
+    "ingredients": [
+      {"name": "白朗姆酒", "amount": "60 ml"},
+      {"name": "柠檬汁", "amount": "30 ml"},
+      {"name": "菠萝汁", "amount": "90 ml"},
+      {"name": "椰奶", "amount": "60 ml"},
+      {"name": "樱桃", "amount": "1 个"},
+      {"name": "菠萝", "amount": "1 片"},
+      {"name": "冰块", "amount": "适量"}
+    ],
+    "steps": [
+      "把冰块放入果汁机中，倒入白朗姆酒、柠檬汁、菠萝汁、椰奶，开启果汁机 5–10 秒。",
+      "把调好的鸡尾酒倒入冰镇的酒杯中，加上洗净的樱桃和菠萝片装饰即可。"
+    ]
+  },
+  {
+    "id": "bloody-mary", "en": "Bloody Mary", "cn": "血腥玛丽",
+    "base": "伏特加", "baseEn": "Vodka",
+    "ingredients": [
+      {"name": "伏特加", "amount": "45 ml"},
+      {"name": "番茄汁", "amount": "45 ml"},
+      {"name": "辣椒仔（Tabasco）", "amount": "4–5 滴"},
+      {"name": "喼汁（伍斯特沙司）", "amount": "15 ml"},
+      {"name": "柠檬片", "amount": "1 片"},
+      {"name": "小芹菜", "amount": "2 根"},
+      {"name": "黑胡椒粉", "amount": "少许"}
+    ],
+    "steps": [
+      "将辣椒仔、喼汁、伏特加、柠檬汁、番茄汁倒入美式摇酒壶或大容量手柄壶内。",
+      "用 rolling 手法在两壶之间来回倒几次（像拉茶的动作）。",
+      "倒入 rock 杯或长饮杯，放上芹菜、柠檬皮装饰，最后撒少许胡椒。"
+    ]
+  },
+  {
+    "id": "tequila-sunrise", "en": "Tequila Sunrise", "cn": "龙舌兰日出",
+    "base": "龙舌兰", "baseEn": "Tequila",
+    "ingredients": [
+      {"name": "龙舌兰酒", "amount": "45 ml"},
+      {"name": "橙汁", "amount": "加至八分满"},
+      {"name": "红石榴糖浆", "amount": "少许"},
+      {"name": "小樱桃", "amount": "1 颗"},
+      {"name": "橙片", "amount": "1 片"},
+      {"name": "冰块", "amount": "适量"}
+    ],
+    "steps": [
+      "杯中放入冰块，倒入龙舌兰酒，用吧勺轻微旋转，冷却酒液与杯子。",
+      "随后倒入橙汁，进行搅拌。",
+      "把螺纹吧勺插入杯底，顺着螺纹缓缓倒入少许红石榴糖浆，最后放橙片和小樱桃装饰。"
+    ]
+  },
+  {
+    "id": "moscow-mule", "en": "Moscow Mule", "cn": "莫斯科骡子",
+    "base": "伏特加", "baseEn": "Vodka",
+    "ingredients": [
+      {"name": "新鲜青柠汁", "amount": "少许"},
+      {"name": "伏特加", "amount": "45 ml"},
+      {"name": "姜汁啤酒", "amount": "120 ml"}
+    ],
+    "steps": [
+      "使用青柠块挤出汁，放入杯中。",
+      "倒入 45 ml 伏特加，放入 1–2 块老冰，搅拌片刻。",
+      "最后倒入全部姜汁啤酒，可放一片青柠装饰。"
+    ]
+  },
+  {
+    "id": "whiskey-sour", "en": "Whiskey Sour", "cn": "威士忌酸",
+    "base": "威士忌", "baseEn": "Whiskey",
+    "ingredients": [
+      {"name": "威士忌", "amount": "45 ml"},
+      {"name": "鲜榨黄柠檬汁", "amount": "20 ml"},
+      {"name": "单糖浆", "amount": "20 ml"}
+    ],
+    "steps": [
+      "将以上材料依次按顺序加入摇酒壶，加冰摇匀。",
+      "倒入马天尼鸡尾酒杯内。",
+      "可用柠檬片装饰，制作完成。"
+    ]
+  },
+  {
+    "id": "manhattan", "en": "Manhattan", "cn": "曼哈顿",
+    "base": "黑麦威士忌", "baseEn": "Rye Whiskey",
+    "ingredients": [
+      {"name": "黑麦威士忌", "amount": "50 ml"},
+      {"name": "甜味美思", "amount": "40 ml"},
+      {"name": "苦精", "amount": "1 滴"},
+      {"name": "甜樱桃", "amount": "1 颗"},
+      {"name": "柠檬皮", "amount": "1 块"}
+    ],
+    "steps": [
+      "将材料与冰块放入调酒杯，搅拌。",
+      "用滤冰器扣住调酒杯，将饮品注入鸡尾酒杯。",
+      "杯口处挤柠檬皮出油，最后用酒签串好樱桃插入装饰。"
+    ]
+  },
+  {
+    "id": "old-fashioned", "en": "Old Fashioned", "cn": "古典鸡尾酒",
+    "base": "黑麦威士忌", "baseEn": "Rye Whiskey",
+    "ingredients": [
+      {"name": "黑麦威士忌", "amount": "65 ml（约 5 ml 先浸方糖，余 60 ml 后加）"},
+      {"name": "方糖", "amount": "1 块"},
+      {"name": "安格仕苦精（Angostura）", "amount": "适量"},
+      {"name": "橙皮", "amount": "2 片"},
+      {"name": "冰块", "amount": "适量"}
+    ],
+    "steps": [
+      "将方糖放入威士忌杯中，滴上适量苦精浸透，放入橙皮，用捣棒挤压释放橙皮香气。",
+      "充分溶解方糖后，加入适量冰块。",
+      "加入 60 ml 黑麦威士忌，搅拌杯底的糖与橙皮，使糖充分融合，搅拌至杯壁起雾；最后在杯口挤橙皮油并放入杯中。"
+    ]
+  },
+  {
+    "id": "mojito", "en": "Mojito", "cn": "莫吉托",
+    "base": "白朗姆酒", "baseEn": "White Rum",
+    "ingredients": [
+      {"name": "白朗姆酒", "amount": "40 ml"},
+      {"name": "鲜榨青柠汁", "amount": "30 ml"},
+      {"name": "薄荷", "amount": "6 枝"},
+      {"name": "白砂糖（或单糖浆 20 ml）", "amount": "2 吧勺"},
+      {"name": "苏打水", "amount": "约 30 ml"}
+    ],
+    "steps": [
+      "杯中加入一小把薄荷叶，用捣棒轻压，加入少量苏打水轻轻搅拌（轻揉薄荷叶破坏细胞、释放香气）。",
+      "倒入朗姆酒、青柠汁、糖浆，将冰块敲成碎冰倒入杯中（约半杯），充分搅拌。",
+      "填满碎冰后，用薄荷叶和青柠角装饰。"
+    ]
+  }
+]
