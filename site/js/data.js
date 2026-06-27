@@ -9,7 +9,7 @@ window.ALMANAC = [
   "family": "rum",
   "familyLabel": "卡莎萨 Cachaça",
   "card": "assets/cards/caipirinha.jpg",
-  "illu": "assets/illustrations/caipirinha.jpg",
+  "illu": "assets/illustrations/caipirinha.png",
   "ingredients": [
    {
     "name": "卡莎萨",
@@ -60,7 +60,7 @@ window.ALMANAC = [
   "family": "gin",
   "familyLabel": "金酒 Gin",
   "card": "assets/cards/basil-smash.jpg",
-  "illu": "assets/illustrations/basil-smash.jpg",
+  "illu": "assets/illustrations/basil-smash.png",
   "ingredients": [
    {
     "name": "干式金酒",
@@ -116,7 +116,7 @@ window.ALMANAC = [
   "family": "gin",
   "familyLabel": "金酒 Gin",
   "card": "assets/cards/aviation.jpg",
-  "illu": "assets/illustrations/aviation.jpg",
+  "illu": "assets/illustrations/aviation.png",
   "ingredients": [
    {
     "name": "Beefeater 24 金酒",
@@ -176,7 +176,7 @@ window.ALMANAC = [
   "family": "gin",
   "familyLabel": "金酒 Gin",
   "card": "assets/cards/lychee-gimlet.jpg",
-  "illu": "assets/illustrations/lychee-gimlet.jpg",
+  "illu": "assets/illustrations/lychee-gimlet.png",
   "ingredients": [
    {
     "name": "金酒",
@@ -234,7 +234,7 @@ window.ALMANAC = [
   "family": "vodka",
   "familyLabel": "伏特加 Vodka",
   "card": "assets/cards/spicy-lemon-drop.jpg",
-  "illu": "assets/illustrations/spicy-lemon-drop.jpg",
+  "illu": "assets/illustrations/spicy-lemon-drop.png",
   "ingredients": [
    {
     "name": "伏特加",
@@ -289,7 +289,7 @@ window.ALMANAC = [
   "family": "gin",
   "familyLabel": "金酒 Gin",
   "card": "assets/cards/negroni.jpg",
-  "illu": "assets/illustrations/negroni.jpg",
+  "illu": "assets/illustrations/negroni.png",
   "ingredients": [
    {
     "name": "金酒",
@@ -349,7 +349,7 @@ window.ALMANAC = [
   "family": "gin",
   "familyLabel": "金酒 Gin",
   "card": "assets/cards/gin-fizz.jpg",
-  "illu": "assets/illustrations/gin-fizz.jpg",
+  "illu": "assets/illustrations/gin-fizz.png",
   "ingredients": [
    {
     "name": "金酒",
@@ -405,7 +405,7 @@ window.ALMANAC = [
   "family": "brandy",
   "familyLabel": "白兰地 Brandy",
   "card": "assets/cards/sidecar.jpg",
-  "illu": "assets/illustrations/sidecar.jpg",
+  "illu": "assets/illustrations/sidecar.png",
   "ingredients": [
    {
     "name": "白兰地",
@@ -461,7 +461,7 @@ window.ALMANAC = [
   "family": "bitter",
   "familyLabel": "餐前苦酒 Aperitivo",
   "card": "assets/cards/americano.jpg",
-  "illu": "assets/illustrations/americano.jpg",
+  "illu": "assets/illustrations/americano.png",
   "ingredients": [
    {
     "name": "甜味美思",
@@ -521,7 +521,7 @@ window.ALMANAC = [
   "family": "rum",
   "familyLabel": "朗姆酒 Rum",
   "card": "assets/cards/strawberry-daiquiri.jpg",
-  "illu": "assets/illustrations/strawberry-daiquiri.jpg",
+  "illu": "assets/illustrations/strawberry-daiquiri.png",
   "ingredients": [
    {
     "name": "冰块",
@@ -581,7 +581,7 @@ window.ALMANAC = [
   "family": "tequila",
   "familyLabel": "龙舌兰 Tequila",
   "card": "assets/cards/margarita.jpg",
-  "illu": "assets/illustrations/margarita.jpg",
+  "illu": "assets/illustrations/margarita.png",
   "ingredients": [
    {
     "name": "龙舌兰酒",
@@ -633,7 +633,7 @@ window.ALMANAC = [
   "family": "rum",
   "familyLabel": "朗姆酒 Rum",
   "card": "assets/cards/blue-hawaii.jpg",
-  "illu": "assets/illustrations/blue-hawaii.jpg",
+  "illu": "assets/illustrations/blue-hawaii.png",
   "ingredients": [
    {
     "name": "朗姆酒",
@@ -692,7 +692,7 @@ window.ALMANAC = [
   "family": "rum",
   "familyLabel": "朗姆酒 Rum",
   "card": "assets/cards/pina-colada.jpg",
-  "illu": "assets/illustrations/pina-colada.jpg",
+  "illu": "assets/illustrations/pina-colada.png",
   "ingredients": [
    {
     "name": "白朗姆酒",
@@ -759,7 +759,7 @@ window.ALMANAC = [
   "family": "vodka",
   "familyLabel": "伏特加 Vodka",
   "card": "assets/cards/bloody-mary.jpg",
-  "illu": "assets/illustrations/bloody-mary.jpg",
+  "illu": "assets/illustrations/bloody-mary.png",
   "ingredients": [
    {
     "name": "伏特加",
@@ -827,7 +827,7 @@ window.ALMANAC = [
   "family": "tequila",
   "familyLabel": "龙舌兰 Tequila",
   "card": "assets/cards/tequila-sunrise.jpg",
-  "illu": "assets/illustrations/tequila-sunrise.jpg",
+  "illu": "assets/illustrations/tequila-sunrise.png",
   "ingredients": [
    {
     "name": "龙舌兰酒",
@@ -891,7 +891,7 @@ window.ALMANAC = [
   "family": "vodka",
   "familyLabel": "伏特加 Vodka",
   "card": "assets/cards/moscow-mule.jpg",
-  "illu": "assets/illustrations/moscow-mule.jpg",
+  "illu": "assets/illustrations/moscow-mule.png",
   "ingredients": [
    {
     "name": "新鲜青柠汁",
@@ -942,7 +942,7 @@ window.ALMANAC = [
   "family": "whisky",
   "familyLabel": "威士忌 Whisky",
   "card": "assets/cards/whiskey-sour.jpg",
-  "illu": "assets/illustrations/whiskey-sour.jpg",
+  "illu": "assets/illustrations/whiskey-sour.png",
   "ingredients": [
    {
     "name": "威士忌",
@@ -994,7 +994,7 @@ window.ALMANAC = [
   "family": "whisky",
   "familyLabel": "威士忌 Whisky",
   "card": "assets/cards/manhattan.jpg",
-  "illu": "assets/illustrations/manhattan.jpg",
+  "illu": "assets/illustrations/manhattan.png",
   "ingredients": [
    {
     "name": "黑麦威士忌",
@@ -1054,7 +1054,7 @@ window.ALMANAC = [
   "family": "whisky",
   "familyLabel": "威士忌 Whisky",
   "card": "assets/cards/old-fashioned.jpg",
-  "illu": "assets/illustrations/old-fashioned.jpg",
+  "illu": "assets/illustrations/old-fashioned.png",
   "ingredients": [
    {
     "name": "黑麦威士忌",
@@ -1114,7 +1114,7 @@ window.ALMANAC = [
   "family": "rum",
   "familyLabel": "朗姆酒 Rum",
   "card": "assets/cards/mojito.jpg",
-  "illu": "assets/illustrations/mojito.jpg",
+  "illu": "assets/illustrations/mojito.png",
   "ingredients": [
    {
     "name": "白朗姆酒",

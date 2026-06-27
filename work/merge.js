@@ -33,7 +33,7 @@ const merged = base.map((b, i) => {
     id: b.id, en: b.en, cn: b.cn, base: b.base, baseEn: b.baseEn,
     family: fam[0], familyLabel: fam[1],
     card: `assets/cards/${b.id}.jpg`,
-    illu: `assets/illustrations/${b.id}.jpg`,
+    illu: `assets/illustrations/${b.id}.png`,
     ingredients: b.ingredients,
     steps: b.steps,
     tagline: p.tagline || '',
