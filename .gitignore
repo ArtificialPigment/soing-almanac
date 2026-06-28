@@ -6,6 +6,9 @@ work/shots/
 work/debug/
 work/crops/
 work/cards/
+tmp/
+output/
+.playwright-cli/
 
 # editor / OS
 .DS_Store
