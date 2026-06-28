@@ -82,7 +82,7 @@
     const feat = (item, side, label, en, text) => `
       <div class="home-feature ${side}">
         <div class="hf-art">
-          <img src="${item[0].card}" alt=""><img src="${item[1].illu}" alt="">
+          <img src="${item[0].illu}" alt="${item[0].cn} 手绘插画"><img src="${item[1].illu}" alt="${item[1].cn} 手绘插画">
         </div>
         <div class="hf-text">
           <span class="en">${en}</span>
@@ -153,7 +153,9 @@
     if (lastDrawn) pool = DATA.filter(d => d.id !== lastDrawn);
     const pick = pool[Math.floor(Math.random() * pool.length)];
     lastDrawn = pick.id;
-    document.getElementById("drawnImg").src = pick.card;
+    const drawnImg = document.getElementById("drawnImg");
+    drawnImg.src = pick.illu;
+    drawnImg.alt = `${pick.cn} 手绘插画`;
 
     void drawn.offsetWidth;
     stage.classList.add("drawing");
@@ -248,12 +250,8 @@
       </div>
       <div class="detail">
         <div class="detail-art rise" style="animation-delay:.06s">
-          <div class="card-frame" id="frame"><img src="${d.card}" alt="${d.cn} 手绘酒谱卡"></div>
-          <div class="art-cap">No.${String(d.index).padStart(2, "0")} · 手绘原卡 · SOING</div>
-          <figure class="finished" id="finished">
-            <img src="assets/generated/${d.id}.jpg" alt="${d.cn} 成品参考图">
-            <figcaption class="art-cap">成品参考 · AI 生成配图</figcaption>
-          </figure>
+          <div class="card-frame illu-frame" id="frame"><img src="${d.illu}" alt="${d.cn} 手绘插画"></div>
+          <div class="art-cap">No.${String(d.index).padStart(2, "0")} · 重绘插画 · SOING</div>
         </div>
         <div class="detail-info">
           <div class="detail-head rise" style="animation-delay:.12s">
@@ -311,14 +309,6 @@
     app.appendChild(v);
     bindReveal(v);
     tiltCard(v.querySelector("#frame"));
-    // optional AI-generated finished-drink photo: show only if the file exists
-    (function () {
-      const fig = v.querySelector("#finished"), img = fig && fig.querySelector("img");
-      if (!img) return;
-      const drop = () => fig.remove();
-      img.addEventListener("error", drop);
-      if (img.complete && img.naturalWidth === 0) drop();
-    })();
     const copyBtn = v.querySelector(".copy");
     if (copyBtn) copyBtn.addEventListener("click", () => {
       const txt = v.querySelector("#" + copyBtn.dataset.copy).textContent;
